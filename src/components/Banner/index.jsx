@@ -15,7 +15,7 @@ export default function Banner() {
         </p>
       </div>
       <div className={styles.imagens}>
-        <img  className={styles.circuloColorido} src={circuloColorido} alt="" area-hidden={true} />
+        <img  className={styles.circuloColorido} src={circuloColorido} alt=""  />
         <img className={styles.minhaFoto} src={minhaFoto} alt="Foto do Igor Ivanov" />
       </div>
     </div>
